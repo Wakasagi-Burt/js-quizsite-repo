@@ -1,0 +1,62 @@
+* {
+  font-family: monospace;
+  color: rgb(10, 236, 10);
+  background-color: black;
+}
+
+nav a {
+  font-size: 20px;
+  font-weight: 900;
+  text-decoration: underline rgb(10, 236, 10);
+  color: rgb(10, 236, 10);
+  padding-left: 25px;
+}
+main {
+  text-align: center;
+  font-weight: 900;
+  font-size: 25px;
+}
+
+button {
+  font-size: 20px;
+  text-decoration: underline rgb(10, 236, 10);
+  padding: 10px 15px 10px 15px;
+  border: 3px solid rgb(10, 236, 10);
+  border-radius: 15px;
+  color: rgb(10, 236, 10);
+}
+
+h1 {
+  font-size: 55px;
+}
+
+label {
+  font-size: 30px;
+}
+
+.start-text {
+  border: 5px solid rgb(10, 236, 10);
+  border-radius: 15px;
+  margin-left: 480px;
+  margin-right: 480px;
+  padding: 20px;
+  
+}
+
+#timer {
+  font-size: 30px;
+  text-decoration: overline rgb(10, 236, 10);
+}
+
+#score-text {
+  font-size: 30px;
+  text-decoration: overline rgb(10, 236, 10);
+}
+
+input {
+  font-size: 20px;
+  font-weight: bolder;
+  padding: 10px;
+  border: 3px solid rgb(10, 236, 10);
+  border-radius: 15px;
+}
